@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @sellings-dev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on projects with interesting topics
-- 📫 How to reach me: My email -> gabriel.s.sellin@gmail.com
+## Gabriel Sellin
+
+### Hello, and welcome to my profile! 👋
+
+### Who am I?
+
+I'm a **student**, a **Backend Web Developer**, but most importantly, a sucker for **learning**. 😁📖
+
+### What I'm up to:
+
+- I am currently working at **iJunior**. 💙
+- I develop **Web Apps** using **Flask** but I'm studying and migrating to **Node.js**! 💻 
+- Looking to work in fun and impactful projects! ✊
+- Always up to **learning** and **sharing with others**! 🤜🤛
+
+### How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/sellings/)
+- Email: gabriel.s.sellin@gmail.com
 
 <!---
 sellings-dev/sellings-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
