@@ -22,7 +22,7 @@
 
 ### Learning:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height=64 alt="TypeScript"> &nbsp;&nbsp;&nbsp; <img src="https://axaguildev.github.io/react-toolkit/v1.3.9/storybook/images/react.svg" height=64 alt="React">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height=64 alt="TypeScript"> &nbsp;&nbsp;&nbsp; <img src="https://axaguildev.github.io/react-toolkit/v1.3.9/storybook/images/react.svg" height=64 alt="React"> &nbsp;&nbsp;&nbsp; <img src="https://www.honext.io/static/images/next_logo.png" height=64 alt="React">
 
 
 ## How to reach me:
